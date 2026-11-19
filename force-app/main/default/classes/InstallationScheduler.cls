@@ -49,7 +49,6 @@ public with sharing class InstallationScheduler {
             LIMIT 200
         ];
     }
-}
 
     /**
      * The installations from the list that can be scheduled on the given day.
@@ -78,3 +77,4 @@ public with sharing class InstallationScheduler {
         }
         return allowed;
     }
+}
