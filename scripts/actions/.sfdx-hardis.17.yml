@@ -1,0 +1,9 @@
+commandsPostDeploy:
+  - id: bfd46d4e-687b-4368-80bc-99a99255f01c
+    label: HeliosHandoverRefData
+    type: data
+    command: ""
+    parameters:
+      sfdmuProject: HeliosCrewRefData
+    runOnlyOnceByOrg: true
+    context: process-deployment-only
