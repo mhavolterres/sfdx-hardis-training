@@ -4,6 +4,7 @@ commandsPostDeploy:
     type: data
     command: ""
     parameters:
-      sfdmuProject: HeliosCrewRefData
+      sfdmuProject: HeliosHandoverRefData
     runOnlyOnceByOrg: true
     context: process-deployment-only
+    allowFailure: false
