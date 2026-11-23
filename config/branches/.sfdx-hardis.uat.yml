@@ -1,0 +1,8 @@
+targetUsername: test-lcu3b0xcgd9i@example.com
+instanceUrl: https://test.salesforce.com
+mergeTargets:
+  - preprod
+packageNoOverwritePath: ""
+scratchOrgSnapshotKeep: 2
+skipCodeCoverage: false
+useScratchOrgSnapshot: false
